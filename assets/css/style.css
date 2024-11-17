@@ -1896,8 +1896,12 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .info-content .title { 
-    width: 20em;
-    margin: auto; }
+   width: 20em;
+    margin: auto; 
+    line-height: 1.7;
+    padding-left: 34px;
+
+  }
 
   .info_more-btn { display: none; }
 
