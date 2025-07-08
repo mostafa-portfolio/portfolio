@@ -1796,6 +1796,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-list { grid-template-columns: repeat(3, 1fr); }
 
+/*
+  Certificates Grid
+*/
+.certificateopt { grid-template-columns: repeat(2, 1fr); }
 
 
   /**
